@@ -2,7 +2,7 @@
 
 **`Estudante de desenvolvimento front-end e UX/UI I Desing.`**
 
-## contato
+## Contato
 <p align = "left">
 <a href="https://www.linkedin.com/in/d%C3%A9bora-carmaci">
   <img
