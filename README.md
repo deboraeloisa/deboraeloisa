@@ -1,6 +1,6 @@
 # Débora Eloisa Carmaci
 
-**`Estudante de desenvolvimento front-end, UX/UI I Desing.`**
+**`Estudante de desenvolvimento front-end e UX/UI I Desing.`**
 
 ## contato
 <p align = "left">
